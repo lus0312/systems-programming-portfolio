@@ -48,7 +48,6 @@ build-*/
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
-Makefile
 install_manifest.txt
 compile_commands.json
 
@@ -67,3 +66,20 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Portfolio runtime files
+ircserv
+philo
+!philosophers/philo/
+objs/
+ft_irc_traces/
+__pycache__/
+.env
+.env.*
+!.env.example
+**/secrets/*
+!**/secrets/.gitkeep
+*.pem
+*.key
+.DS_Store
+Thumbs.db

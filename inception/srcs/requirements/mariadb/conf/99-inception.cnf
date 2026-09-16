@@ -1,0 +1,4 @@
+[mysqld]
+
+# Listen on every container interface so WordPress can connect over Docker network
+bind-address = 0.0.0.0

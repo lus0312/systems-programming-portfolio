@@ -1,2 +1,11 @@
-# systems-programming-portfolio
-42경산에서 수행한 ft_irc, Philosophers, pipex 프로젝트를 통해 C/C++ 기반 네트워크 통신, 동시성 제어, 프로세스 간 통신 경험을 정리한 포트폴리오입니다.
+# 시스템·네트워크 프로그래밍 포트폴리오
+
+42경산 교육 과정에서 수행한 세 프로젝트를 통해 네트워크 통신, 동시성 제어, 컨테이너 기반 서비스 구성을 학습했습니다.
+
+| 프로젝트 | 어떤 과제인가요? | 주요 학습 내용 |
+| --- | --- | --- |
+| [ft_irc](ft_irc/README.md) | C++98로 다중 클라이언트 IRC 서버 구현 | TCP/IP, poll, 메시지 경계와 연결별 상태 관리 |
+| [Philosophers](philosophers/README.md) | C로 식사하는 철학자 문제 구현 | pthread, mutex, 공유 자원과 종료 조건 |
+| [Inception](inception/README.md) | Docker로 여러 서비스를 연결한 웹 환경 구성 | 이미지·컨테이너, 네트워크, 영속 저장소 |
+
+각 프로젝트 문서에는 과제의 목적, 구현 내용, 학습 주제와 실행 방법을 정리했습니다. ft_irc의 팀 내 담당 범위는 해당 문서에 명시했습니다.
