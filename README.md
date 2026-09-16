@@ -8,4 +8,4 @@
 | [Philosophers](philosophers/README.md) | C로 식사하는 철학자 문제 구현 | pthread, mutex, 공유 자원과 종료 조건 |
 | [Inception](inception/README.md) | Docker로 여러 서비스를 연결한 웹 환경 구성 | 이미지·컨테이너, 네트워크, 영속 저장소 |
 
-각 프로젝트 문서에는 과제의 목적, 구현 내용, 학습 주제와 실행 방법을 정리했습니다. ft_irc의 팀 내 담당 범위는 해당 문서에 명시했습니다.
+각 프로젝트 문서에는 과제의 목적, 구현 내용, 학습 주제와 실행 방법을 정리했습니다.
