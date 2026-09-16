@@ -4,7 +4,6 @@
 
 | 항목 | 내용 |
 | --- | --- |
-| 기간 | [기간 입력] |
 | 인원 | 개인 과제 |
 | 환경 · 도구 | Docker Engine, Docker Compose, Debian Bookworm, Nginx, MariaDB, Redis, vsftpd, GNU Make |
 | 담당 | 이미지 작성, 서비스 설정, 초기화 스크립트, Compose 구성 전 범위 |
