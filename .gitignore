@@ -83,3 +83,11 @@ __pycache__/
 *.key
 .DS_Store
 Thumbs.db
+
+# 42 Common Core: executables and editor files
+pipex/pipex
+42-common-core/**/push_swap/push_swap
+42-common-core/**/fractol/fractol
+minishell/minishell
+42-common-core/**/*.o
+.vscode/
